@@ -1,24 +1,9 @@
-# nasa
+# Pick a date and discover a photo of the space from that day 🌙
 
-## Project setup
-```
-npm install
-```
+Hello! My name is **Simón Arenas**, and [this app](https://nasa-api-xi.vercel.app/) is connected to a Nasa APPI, first you pick and date and then it will show you the *Astronomy Picture of the Day* with its title and description.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Check the app [here](https://nasa-api-xi.vercel.app/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![enter image description here](https://i.imgur.com/ybuqcmn.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
